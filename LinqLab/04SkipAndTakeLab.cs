@@ -17,20 +17,17 @@ namespace LinqLab
 
         public List<Sample> Skip5Data()
         {
-            var result = new List<Sample>();
-            return result;
+            return new List<Sample>(Source.Skip(5));
         }
 
         public List<Sample> Take5Data()
         {
-            var result = new List<Sample>();
-            return result;
+            return new List<Sample>(Source.Take(5));
         }
 
         public List<Sample> Skip5DataAndTake2Data()
         {
-            var result = new List<Sample>();
-            return result;
+            return new List<Sample>(Source.Skip(5).Take(2));
         }
     }
 }

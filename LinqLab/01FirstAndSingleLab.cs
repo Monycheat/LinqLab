@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LinqLab
 {
-   public class FirstAndSingleLab
+    public class FirstAndSingleLab
     {
         private static IEnumerable<Sample> Source { get; set; }
 
@@ -17,43 +17,36 @@ namespace LinqLab
 
         public Sample FirstToGetUserNameEqualToDemo()
         {
-            var result = new Sample();
-            return result;
+            return Source.First(x => x.UserName.Equals("demo"));
         }
 
         public Sample FirstOrDefaultToGetUserNameEuqalToSkilltree()
         {
-            var result = new Sample();
-            return result;
+            return Source.FirstOrDefault(x => x.Equals("Skilltree"));
         }
 
         public Sample FirstToGetUserNameEuqalToSkilltree()
         {
-            var result = new Sample();
-            return result;
+            return Source.First(x => x.Equals("Skilltree"));
         }
 
         public Sample SingleToGetUserNameEuqalToDemo()
         {
-            var result = new Sample();
-            return result;
+            return Source.Single(x => x.Equals("Demo"));
         }
 
         public Sample SingleToGetUserNameEuqalToBill()
         {
-            var result = new Sample();
-            return result;
+            return Source.Single(x => x.UserName.Equals("bill"));
         }
         public Sample SingleOrDefaultToGetUserNameEuqalToBill()
         {
-            var result = new Sample();
-            return result;
+            return Source.SingleOrDefault(x => x.UserName.Equals("bill"));
         }
 
         public Sample SingleOrDefaultToGetUserNameEuqalToSkillTree()
         {
-            var result = new Sample();
-            return result;
+            return Source.SingleOrDefault(x => x.Equals("SkillTree"));
         }
     }
 }

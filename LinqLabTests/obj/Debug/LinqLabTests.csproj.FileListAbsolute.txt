@@ -22,3 +22,18 @@ R:/LinqLab/LinqLabTests/obj/Debug/LinqLabTests.pdb
 /Users/ezra/Develop/C#Projects/LinqExercise/LinqLab/LinqLabTests/obj/Debug/LinqLabTests.csproj.CopyComplete
 /Users/ezra/Develop/C#Projects/LinqExercise/LinqLab/LinqLabTests/obj/Debug/LinqLabTests.dll
 /Users/ezra/Develop/C#Projects/LinqExercise/LinqLab/LinqLabTests/obj/Debug/LinqLabTests.pdb
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\bin\Debug\LinqLabTests.dll
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\bin\Debug\LinqLabTests.pdb
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\bin\Debug\ExpectedObjects.dll
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\bin\Debug\LinqLab.exe
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\bin\Debug\LinqLab.pdb
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\bin\Debug\LinqLab.exe.config
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\obj\Debug\LinqLabTests.csproj.AssemblyReference.cache
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\obj\Debug\LinqLabTests.csproj.CoreCompileInputs.cache
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\obj\Debug\LinqLabTests.csproj.CopyComplete
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\obj\Debug\LinqLabTests.dll
+D:\LinkLab\New LinqLab\LinqLab\LinqLabTests\obj\Debug\LinqLabTests.pdb

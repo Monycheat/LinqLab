@@ -14,3 +14,13 @@ R:/LinqLab/LinqLab/bin/Debug/ExpectedObjects.dll
 /Users/ezra/Develop/C#Projects/LinqExercise/LinqLab/LinqLab/obj/Debug/LinqLab.csproj.CopyComplete
 /Users/ezra/Develop/C#Projects/LinqExercise/LinqLab/LinqLab/obj/Debug/LinqLab.exe
 /Users/ezra/Develop/C#Projects/LinqExercise/LinqLab/LinqLab/obj/Debug/LinqLab.pdb
+D:\LinkLab\New LinqLab\LinqLab\LinqLab\bin\Debug\LinqLab.exe.config
+D:\LinkLab\New LinqLab\LinqLab\LinqLab\bin\Debug\LinqLab.exe
+D:\LinkLab\New LinqLab\LinqLab\LinqLab\bin\Debug\LinqLab.pdb
+D:\LinkLab\New LinqLab\LinqLab\LinqLab\bin\Debug\ExpectedObjects.dll
+D:\LinkLab\New LinqLab\LinqLab\LinqLab\obj\Debug\LinqLab.csproj.AssemblyReference.cache
+D:\LinkLab\New LinqLab\LinqLab\LinqLab\obj\Debug\LinqLab.csproj.SuggestedBindingRedirects.cache
+D:\LinkLab\New LinqLab\LinqLab\LinqLab\obj\Debug\LinqLab.csproj.CoreCompileInputs.cache
+D:\LinkLab\New LinqLab\LinqLab\LinqLab\obj\Debug\LinqLab.csproj.CopyComplete
+D:\LinkLab\New LinqLab\LinqLab\LinqLab\obj\Debug\LinqLab.exe
+D:\LinkLab\New LinqLab\LinqLab\LinqLab\obj\Debug\LinqLab.pdb
